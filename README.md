@@ -8,3 +8,5 @@ Download ALL The PGP Keys
 Usage:
 
 `./download.sh ftp://ftp.prato.linux.it/pub/keyring/`
+
+[![Build Status](https://travis-ci.org/PartTimeLegend/Download-ALL-The-PGP-Keys.png?branch=master)](https://travis-ci.org/PartTimeLegend/Download-ALL-The-PGP-Keys)
