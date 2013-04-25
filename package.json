@@ -1,5 +1,5 @@
 {
-  "name": "Download ALL The PGP Keys",
+  "name": "DownloadALLThePGPKeys",
   "version": "0.0.1",
   "description": "Download ALL The PGP Keys",
   "scripts": {
@@ -11,7 +11,10 @@
     "url": "git://github.com/PartTimeLegend/Download-ALL-The-PGP-Keys.git"
   },
   "dependencies": {
-    "isnode": "*"
+    "node-curl": "0.3.1"
+  },
+  "devDependencies": {
+    "node-curl": "0.3.1"
   },
   "keywords": [
     "bitcoin",
