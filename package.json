@@ -1,0 +1,23 @@
+{
+  "name": "Download ALL The PGP Keys",
+  "version": "0.0.1",
+  "description": "Download ALL The PGP Keys",
+  "scripts": {
+    "start": "sh download.sh ftp://ftp.prato.linux.it/pub/keyring/",
+    "test": " sh download.sh ftp://ftp.prato.linux.it/pub/keyring/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PartTimeLegend/Download-ALL-The-PGP-Keys.git"
+  },
+  "dependencies": {
+    "isnode": "*"
+  },
+  "keywords": [
+    "bitcoin",
+    "buttercoin"
+  ],
+  "author": "Antony Bailey (http://github.com/PartTimeLegend/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
