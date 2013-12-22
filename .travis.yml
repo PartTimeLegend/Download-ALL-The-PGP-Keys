@@ -1,5 +1,12 @@
 language: node_js
 node_js:
+  - "0.10.24"
+  - "0.10.23"
+  - "0.10.22"
+  - "0.10.21"
+  - "0.10.20"
+  - "0.10.19"
+  - "0.10.18"
   - "0.10.17"
   - "0.10.16"
   - "0.10.15"
@@ -18,8 +25,3 @@ node_js:
   - "0.10.2"
   - "0.10.1"
   - "0.10"
-notifications:
-  irc: "irc.freenode.org#parttimelegend"
-email:
-    on_success: never
-    on_failure: never
