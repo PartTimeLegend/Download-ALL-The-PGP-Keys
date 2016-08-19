@@ -11,10 +11,10 @@
     "url": "git://github.com/PartTimeLegend/Download-ALL-The-PGP-Keys.git"
   },
   "dependencies": {
-    "node-curl": "0.3.1"
+    "node-curl": "0.3.3"
   },
   "devDependencies": {
-    "node-curl": "0.3.1"
+    "node-curl": "0.3.3"
   },
   "keywords": [
     "bitcoin",
